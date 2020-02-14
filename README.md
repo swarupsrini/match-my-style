@@ -1,6 +1,5 @@
 # MatchMyStyle
-## Figma mockup
-## [Figma mockup](https://www.figma.com/file/GALsI3DbQU6RwKhhGfw1pa/MatchMyStyle-Mockups?node-id=0%3A1)
+[Figma mockup](https://www.figma.com/file/GALsI3DbQU6RwKhhGfw1pa/MatchMyStyle-Mockups?node-id=0%3A1)
 
 ## Inspiration
 We were inspired by the difficulty of filtering out the clothes we were interested in from all the available options. As a group of motivated undergraduate software developers, we were determined to find a solution.
