@@ -12,7 +12,7 @@ When you walk in a store or view a catalog online, you have tons of options to c
 
 ## Development
 
-Developed in a team of 4. This is a React application, utilizing Cloud Firestore to store our dataset of catalog images. The Google Cloud Vision API was used to build the core 'matching' system.
+Developed in a team of 4. This is a React application that utilizes Cloud Firestore to store our dataset of catalog images. The Google Cloud Vision API was used to build the core 'matching' system.
 
 ## Demo
 
